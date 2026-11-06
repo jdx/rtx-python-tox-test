@@ -1,5 +1,5 @@
 [tools]
 python = [
-  {version = '3.15.1', virtualenv = '.venv'},
+  {version = '3.15.2', virtualenv = '.venv'},
   {version = '3.11', virtualenv = '.venv'},
 ]
